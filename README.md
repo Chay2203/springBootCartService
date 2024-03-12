@@ -45,22 +45,22 @@ This endpoint returns the carts added between the specified dates
 ## Test Results
 
 ### Get all carts
-![images/1.png](1.png)
+![1.png](images/1.png)
 
 ### Get Cart by Id
-![images/2.png](2.png)
+![2.png](images/2.png)
 
 ### Get by userId
-![images/3.png](3.png)
+![3.png](images/3.png)
 
 ### Add new cart
-![images/4.png](4.png)
+![4.png](images/4.png)
 
 ### Update Product
-![images/5.png](5.png)
+![5.png](images/5.png)
 
 ### Delete Product
-![images/6.png](6.png)
+![6.png](images/6.png)
 
 ### Get Products Between the specified time period
-![images/7.png](7.png)
+![7.png](images/7.png)
