@@ -54,11 +54,9 @@ This endpoint returns the carts added between the specified dates
 ![3.png](3.png)
 
 ### Add new cart
-Request info
 ![4.png](4.png)
 
 ### Update Product
-Request info
 ![5.png](5.png)
 
 ### Delete Product
